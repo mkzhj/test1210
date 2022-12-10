@@ -4,4 +4,7 @@
 aaatest
 test分支
 冲突测试hot-fix
+<<<<<<< HEAD
 master 冲突测试
+hot-fix 冲突测试
+
